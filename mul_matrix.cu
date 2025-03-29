@@ -19,7 +19,7 @@ __global__ void matMulKernel(const double *A, const double *B, double *C, int n)
 }
 
 int main(void) {
-    int n = 250;
+    int n = 500;
     size_t size = n * n * sizeof(double);
 
     // Allocate host memory.

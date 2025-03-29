@@ -15,7 +15,7 @@ void cpu_matmul(const double *A, const double *B, double *C, int n) {
 }
 
 int main(void) {
-    int n = 250; // For a 250x250 matrix
+    int n = 500; // For a 250x250 matrix
     size_t size = n * n * sizeof(double);
     double *A = (double *)malloc(size);
     double *B = (double *)malloc(size);
