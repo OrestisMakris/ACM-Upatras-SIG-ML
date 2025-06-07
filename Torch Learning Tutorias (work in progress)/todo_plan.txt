@@ -8,7 +8,7 @@ PyTorch vs other frameworks (TensorFlow, JAX)
 Basic tensor operations
 PyTorch ecosystem overview
 
-Tutorial 2: Tensor Fundamentals
+Tutorial 2 (1 notebook): Tensor Fundamentals
 
 Creating and manipulating tensors
 Tensor attributes and methods
@@ -120,7 +120,7 @@ Working with pre-trained BERT
 Fine-tuning for classification tasks
 Attention pattern visualization
 
-4    Advanced Topics
+4      Advanced Topics
 
 Model comparison (RNN vs Transformer)
 Best practices and optimization tips
@@ -140,3 +140,9 @@ Positional encoding heatmaps
 Attention weight visualizations
 Architecture diagrams through code
 Training progress tracking
+
+
+TutorialRecurrent Neu ral Networks (RnNs) - LSTM, GRU, sequence modeling
+Tutorial Transformers - Attention mechanisms, BERT-style models
+Tutorial Advanced Training Techniques - Distributed training, mixed precision
+Tutorial  Generative Models - GANs, VAEs, Diffusion models
