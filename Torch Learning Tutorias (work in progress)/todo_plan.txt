@@ -1,4 +1,4 @@
-# Stracture i think is good:
+combine old cnn Tutorial with new
 
 Tutorial 1: Introduction to PyTorch
 
